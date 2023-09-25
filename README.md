@@ -1,7 +1,7 @@
 # Welcome 👋
 I am an upcoming developer, learning everyday as I go.
 
-*Coding is not my main priority currently*
+*Coding a big game right now*
 
 ## Information
 * I started out with Python and have some good knowledge about it.
