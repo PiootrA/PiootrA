@@ -13,6 +13,7 @@ I am an upcoming developer, learning everyday as I go.
 > * CSS
 > * ExpressJS
 > * MongoDB
+
 ^^ Constantly improving at these + more!
 
 **Want to contact me?**
