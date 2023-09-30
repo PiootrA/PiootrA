@@ -5,7 +5,7 @@ I am an upcoming developer, learning everyday as I go.
 
 ## Information
 * I started out with Python and have some good knowledge about it.
-* I do JS as my main language
+* I do JS as my main coding language.
 
 > I know:
 > * JS
@@ -13,8 +13,7 @@ I am an upcoming developer, learning everyday as I go.
 > * CSS
 > * ExpressJS
 > * MongoDB
-
-^^ Constantly improving at these daily
+^^ Constantly improving at these + more!
 
 **Want to contact me?**
 `piotr@piootr.com`
