@@ -5,8 +5,16 @@ I am an upcoming developer, learning everyday as I go.
 
 ## Information
 * I started out with Python and have some good knowledge about it.
-* Currently doing Javascript and way better at it.
-* CSS goes crazy in my projects!
+* Mainly do JS as my main langage
+
+> I know:
+> * JS
+> * Some React
+> * CSS
+> * ExpressJS
+> * MongoDB
+
+^^ Constantly improving at these daily
 
 **Want to contact me?**
 `piotr@piootr.com`
