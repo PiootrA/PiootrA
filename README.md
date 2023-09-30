@@ -5,7 +5,7 @@ I am an upcoming developer, learning everyday as I go.
 
 ## Information
 * I started out with Python and have some good knowledge about it.
-* Mainly do JS as my main langage
+* Indo JS as my main language
 
 > I know:
 > * JS
