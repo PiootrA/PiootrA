@@ -1,5 +1,5 @@
 # Welcome 👋
-I am an upcoming developer, learning everyday as I go.
+I am currently on vite + react rn
 
 *Coding a big game right now*
 
