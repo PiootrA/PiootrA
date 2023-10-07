@@ -1,7 +1,5 @@
 # Welcome 👋
-I am currently on vite + react rn
-
-*Coding a big game right now*
+*Coding a big game right now coming 2024!*
 
 ## Information
 * I started out with Python and have some good knowledge about it.
@@ -9,7 +7,7 @@ I am currently on vite + react rn
 
 > I know:
 > * JS
-> * Some React
+> * React
 > * CSS
 > * ExpressJS
 > * MongoDB
