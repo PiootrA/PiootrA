@@ -1,5 +1,5 @@
 # Welcome 👋
-*Coding a big game right now coming 2024 (I hope...)!*
+*Creator of Inquiziti*
 
 I will add more to this README, I swear!
 
